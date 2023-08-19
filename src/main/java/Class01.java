@@ -11,8 +11,7 @@ public class Class01 {
         //versiyon 3 kodları
         System.out.println("versiyon 3");
 
-        //versiyon 4
-        System.out.println("versiyon 4");
+
 
 
 
